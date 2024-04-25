@@ -20,8 +20,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/ProfMuruk)](https://www.github.com/ProfMuruk)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](www.linkedin.com/in/luan-muruk-ferreira-tonaco-885a0291)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-muruk-ferreira-tonaco-885a0291)](https://www.linkedin.com/in/luan-muruk-ferreira-tonaco-885a0291)
 
 - Thanks for visiting / obrigado por me vistar.
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+#Linguagens e Ferramentas:
+
+[![ProfMuruk GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfMuruk)](https://github.com/ProfMuruk/github-readme-stats)
