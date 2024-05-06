@@ -12,7 +12,7 @@
 
 :books: Aqui sempre atualizando meus codigos e projetos e aprendendo coisas novas
 
-:outbox_tray: Minhas metas são: alimentar o github ao menos 1 vez ao mês. Caso se interesse, estou a disposição para trabalhos!
+:outbox_tray: Minhas metas são: Me dedicar a programação usando java e dominar tecnologias front end pra ser um profissional fullstack completo. Caso se interesse, estou a disposição para trabalhos!
 - Thanks for visiting / obrigado por me vistar.
  
 
